@@ -3,6 +3,9 @@
    --bg-color: #2b2e33; 
    --shadow1: #000000; 
    --shadow2: #565c66;
+   --linkfontsize: 26px;
+   --resp-linkfontsize: 22px;
+   
 }
 
 body {
